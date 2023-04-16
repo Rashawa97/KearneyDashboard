@@ -1,0 +1,76 @@
+.scaller-progress {
+  padding: 20px;
+}
+.scaller-progress-title {
+  /* Body / Body 1 */
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  letter-spacing: 0.44px;
+
+  /* Night Blue */
+
+  color: #383874;
+}
+.scaller-progress-subtitle {
+  /* Tips and details / Caption  */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  letter-spacing: 0.4px;
+
+  /* Night Blue */
+
+  color: #383874;
+
+  mix-blend-mode: normal;
+  opacity: 0.6;
+}
+
+.scaller-progress-diff-positive {
+  /* Body / Body 2 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.44px;
+
+  /* Saudi Arabia Light */
+
+  color: #23a698;
+}
+
+.scaller-progress-diff-negative {
+  /* Body / Body 2 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.44px;
+
+  /* Fervent pink */
+
+  color: #ff708b;
+}
